@@ -36,7 +36,7 @@ map.html
     </head>
     <body>
         <h1 align="center">Chennai</h1>
-        <h2 align="center"> Sunil Kumar(212223040213)</h2>
+        <h2 align="center"> Vishal</h2>
         <center>
             <img src="Screenshot 1.png" usemap="#image-map">
 
