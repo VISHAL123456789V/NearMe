@@ -217,13 +217,12 @@ VR Mall.html
 ```
 
 ## OUTPUT
-![alt text](Anna.png)
-![alt text](Map.png)
-![alt text](VR_Mall.png)
-![alt text](Saveetha.png)
-![alt text](Tambaram.png)
-![alt text](Velachery.png)
-
+![Map](https://github.com/VISHAL123456789V/NearMe/assets/161364099/70ffb722-9cd3-41ca-a7aa-220483cf2330)
+![Anna](https://github.com/VISHAL123456789V/NearMe/assets/161364099/9585b246-f07c-4460-a18e-1e7fb25892ad)
+![Saveetha](https://github.com/VISHAL123456789V/NearMe/assets/161364099/14a19bdf-b2f9-4569-879e-926fffc3d324)
+![Tambaram](https://github.com/VISHAL123456789V/NearMe/assets/161364099/bc8448d5-c8f1-456c-9359-8d6135edf65e)
+![Velachery](https://github.com/VISHAL123456789V/NearMe/assets/161364099/bfff57fb-4bdd-4768-b1db-54620f721356)
+![VR_Mall](https://github.com/VISHAL123456789V/NearMe/assets/161364099/2ecbd19f-6e17-4504-8052-1a60cf5a2fbc)
 
 
 
