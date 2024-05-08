@@ -217,15 +217,15 @@ VR Mall.html
 ```
 
 ## OUTPUT
-![alt text](Map.png)
 ![alt text](Anna.png)
-
-![alt text](Saveetha.png)
-
-![alt text](Velachery.png)
-![alt text](Tambaram.png)
-
+![alt text](Map.png)
 ![alt text](VR_Mall.png)
+![alt text](Saveetha.png)
+![alt text](Tambaram.png)
+![alt text](Velachery.png)
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
